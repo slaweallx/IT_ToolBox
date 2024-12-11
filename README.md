@@ -1,1 +1,3 @@
-IT Toolbox, BT profesyonelleri için günlük operasyonlarını kolaylaştırmayı hedefleyen kapsamlı bir araç setidir. Bu araç, sistem yöneticilerinin ve teknik ekiplerin ihtiyaç duyduğu yaygın görevleri hızlı, güvenilir ve etkili bir şekilde gerçekleştirmesine olanak tanır.
+ChatGPT eşliğinde IT ekiplerinin günlük işlerini kolaylaştıracak bir araç geliştirdim. Yapmak istediğiniz işlemin numarasına basın ve gerisini ToolBox' a bırakın. 
+IT Toolbox adını verdiğim bu aracın şimdilik 40 farklı özelliği bulunuyor. Zaman buldukça yeni özellikler eklemeye devam edeceğim.
+Kullanmak veya geliştirmek isteyenler için kaynak kodlarını GitHub hesabıma bırakıyorum. Dilediğiniz gibi kullanabilir, geliştirebilir ve projeye katkıda bulunabilirsiniz.
